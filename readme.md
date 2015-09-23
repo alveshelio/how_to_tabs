@@ -8,7 +8,7 @@ To try the code on your computer:
 ---------------------------------
 
 1. Install [Node.js 0.12.4](http://nodejs.org/dist/v0.12.4/).
-2. Install [Git](
+2. Install [Git]();
 3. Open a command prompt
 4. Change to the directory that will contain the project. In your command prompt, type: cd <directory> (where <directory> is the directory that will contain the project).
 5. Copy the source repository to your computer: 'git clone https://github.com/helioalves/how_to_tabs.git'
@@ -17,7 +17,7 @@ To try the code on your computer:
 To run the build>
 
 1. Install jake: 'npm install jake -g'
-2. Run jake 'jake'.
+2. Run jake './jake.sh'.
 
 To look at the source code for a particular episode:
 ----------------------------------------------------
