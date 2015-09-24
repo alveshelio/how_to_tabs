@@ -15,7 +15,8 @@
 
     desc("Run a localhost server");
     task("run", function() {
-        jake.exec("node node_modules/http-server/bin/http-server src", {interactive: true}, complete);
+        //jake.exec("node node_modules/http-server/bin/http-server src", {interactive: true}, complete);
+        jake.exec("node node_modules/watch-http-server/bin/http-server ./src", {interactive: true}, complete);
     }, {async:true});
 
     /* Supporting Tasks */
