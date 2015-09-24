@@ -1,0 +1,31 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'uninstall',
+1 verbose cli   'http-server' ]
+2 info using npm@2.14.2
+3 info using node@v4.0.0
+4 verbose unbuild node_modules/http-server
+5 silly gentlyRm /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/http-server is being purged from base /Users/helios/Sites/Training/tdjs/how_to_tabs
+6 verbose gentlyRm don't care about contents; nuking /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/http-server
+7 silly vacuum-fs purging /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/http-server
+8 verbose stack Error: EACCES: permission denied, unlink '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/http-server/node_modules/portfinder/node_modules/.bin/mkdirp'
+8 verbose stack     at Error (native)
+9 verbose cwd /Users/helios/Sites/Training/tdjs/how_to_tabs
+10 error Darwin 15.0.0
+11 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "uninstall" "http-server"
+12 error node v4.0.0
+13 error npm  v2.14.2
+14 error path /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/http-server/node_modules/portfinder/node_modules/.bin/mkdirp
+15 error code EACCES
+16 error errno -13
+17 error syscall unlink
+18 error Error: EACCES: permission denied, unlink '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/http-server/node_modules/portfinder/node_modules/.bin/mkdirp'
+18 error     at Error (native)
+18 error  { [Error: EACCES: permission denied, unlink '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/http-server/node_modules/portfinder/node_modules/.bin/mkdirp']
+18 error   errno: -13,
+18 error   code: 'EACCES',
+18 error   syscall: 'unlink',
+18 error   path: '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/http-server/node_modules/portfinder/node_modules/.bin/mkdirp' }
+19 error Please try running this command again as root/Administrator.
+20 verbose exit [ -13, true ]
