@@ -1,0 +1,628 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'rebuild' ]
+2 info using npm@2.14.4
+3 info using node@v4.1.1
+4 info readInstalled object
+5 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs',
+5 verbose rebuild   'how_to_tabs@1.0.0' ]
+6 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/semver',
+6 verbose rebuild   'semver@5.0.3' ]
+7 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake',
+7 verbose rebuild   'jake@8.0.12' ]
+8 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist',
+8 verbose rebuild   'filelist@0.0.4' ]
+9 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch',
+9 verbose rebuild   'minimatch@0.3.0' ]
+10 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/lru-cache',
+10 verbose rebuild   'lru-cache@2.7.0' ]
+11 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/sigmund',
+11 verbose rebuild   'sigmund@1.0.1' ]
+12 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/utilities',
+12 verbose rebuild   'utilities@0.0.37' ]
+13 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch',
+13 verbose rebuild   'minimatch@0.2.14' ]
+14 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch/node_modules/lru-cache',
+14 verbose rebuild   'lru-cache@2.7.0' ]
+15 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch/node_modules/sigmund',
+15 verbose rebuild   'sigmund@1.0.1' ]
+16 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk',
+16 verbose rebuild   'chalk@0.4.0' ]
+17 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/has-color',
+17 verbose rebuild   'has-color@0.1.7' ]
+18 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/ansi-styles',
+18 verbose rebuild   'ansi-styles@1.0.0' ]
+19 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/strip-ansi',
+19 verbose rebuild   'strip-ansi@0.1.1' ]
+20 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/utilities',
+20 verbose rebuild   'utilities@1.0.4' ]
+21 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/async',
+21 verbose rebuild   'async@0.9.2' ]
+22 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server',
+22 verbose rebuild   'watch-http-server@0.7.6' ]
+23 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar',
+23 verbose rebuild   'chokidar@0.12.6' ]
+24 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp',
+24 verbose rebuild   'readdirp@1.3.0' ]
+25 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/graceful-fs',
+25 verbose rebuild   'graceful-fs@2.0.3' ]
+26 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch',
+26 verbose rebuild   'minimatch@0.2.14' ]
+27 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache',
+27 verbose rebuild   'lru-cache@2.7.0' ]
+28 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/sigmund',
+28 verbose rebuild   'sigmund@1.0.1' ]
+29 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream',
+29 verbose rebuild   'readable-stream@1.0.33' ]
+30 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/core-util-is',
+30 verbose rebuild   'core-util-is@1.0.1' ]
+31 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/isarray',
+31 verbose rebuild   'isarray@0.0.1' ]
+32 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/string_decoder',
+32 verbose rebuild   'string_decoder@0.10.31' ]
+33 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/inherits',
+33 verbose rebuild   'inherits@2.0.1' ]
+34 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/async-each',
+34 verbose rebuild   'async-each@0.1.6' ]
+35 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/fsevents',
+35 verbose rebuild   'fsevents@0.3.8' ]
+36 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/fsevents/node_modules/nan',
+36 verbose rebuild   'nan@2.0.9' ]
+37 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/colors',
+37 verbose rebuild   'colors@1.0.3' ]
+38 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/sexstatic',
+38 verbose rebuild   'sexstatic@0.6.2' ]
+39 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/sexstatic/node_modules/he',
+39 verbose rebuild   'he@0.4.1' ]
+40 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/sexstatic/node_modules/mime',
+40 verbose rebuild   'mime@1.2.11' ]
+41 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/sexstatic/node_modules/minimist',
+41 verbose rebuild   'minimist@0.0.10' ]
+42 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/opener',
+42 verbose rebuild   'opener@1.4.1' ]
+43 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/optimist',
+43 verbose rebuild   'optimist@0.6.1' ]
+44 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/optimist/node_modules/wordwrap',
+44 verbose rebuild   'wordwrap@0.0.3' ]
+45 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/optimist/node_modules/minimist',
+45 verbose rebuild   'minimist@0.0.10' ]
+46 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/portfinder',
+46 verbose rebuild   'portfinder@0.2.1' ]
+47 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/portfinder/node_modules/mkdirp',
+47 verbose rebuild   'mkdirp@0.0.7' ]
+48 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/union',
+48 verbose rebuild   'union@0.4.4' ]
+49 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/union/node_modules/qs',
+49 verbose rebuild   'qs@2.3.3' ]
+50 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/ws',
+50 verbose rebuild   'ws@0.6.5' ]
+51 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/ws/node_modules/nan',
+51 verbose rebuild   'nan@1.4.3' ]
+52 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/ws/node_modules/options',
+52 verbose rebuild   'options@0.0.6' ]
+53 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/ws/node_modules/ultron',
+53 verbose rebuild   'ultron@1.0.2' ]
+54 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint',
+54 verbose rebuild   'jshint@2.8.0' ]
+55 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli',
+55 verbose rebuild   'cli@0.6.6' ]
+56 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob',
+56 verbose rebuild   'glob@3.2.11' ]
+57 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/inherits',
+57 verbose rebuild   'inherits@2.0.1' ]
+58 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch',
+58 verbose rebuild   'minimatch@0.3.0' ]
+59 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+59 verbose rebuild   'lru-cache@2.7.0' ]
+60 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+60 verbose rebuild   'sigmund@1.0.1' ]
+61 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/exit',
+61 verbose rebuild   'exit@0.1.2' ]
+62 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/console-browserify',
+62 verbose rebuild   'console-browserify@1.1.0' ]
+63 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/console-browserify/node_modules/date-now',
+63 verbose rebuild   'date-now@0.1.4' ]
+64 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2',
+64 verbose rebuild   'htmlparser2@3.8.3' ]
+65 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domhandler',
+65 verbose rebuild   'domhandler@2.3.0' ]
+66 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domelementtype',
+66 verbose rebuild   'domelementtype@1.3.0' ]
+67 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils',
+67 verbose rebuild   'domutils@1.5.1' ]
+68 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer',
+68 verbose rebuild   'dom-serializer@0.1.0' ]
+69 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype',
+69 verbose rebuild   'domelementtype@1.1.3' ]
+70 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/entities',
+70 verbose rebuild   'entities@1.1.1' ]
+71 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream',
+71 verbose rebuild   'readable-stream@1.1.13' ]
+72 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is',
+72 verbose rebuild   'core-util-is@1.0.1' ]
+73 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray',
+73 verbose rebuild   'isarray@0.0.1' ]
+74 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder',
+74 verbose rebuild   'string_decoder@0.10.31' ]
+75 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits',
+75 verbose rebuild   'inherits@2.0.1' ]
+76 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/entities',
+76 verbose rebuild   'entities@1.0.0' ]
+77 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/minimatch',
+77 verbose rebuild   'minimatch@2.0.10' ]
+78 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion',
+78 verbose rebuild   'brace-expansion@1.1.0' ]
+79 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match',
+79 verbose rebuild   'balanced-match@0.2.0' ]
+80 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map',
+80 verbose rebuild   'concat-map@0.0.1' ]
+81 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/shelljs',
+81 verbose rebuild   'shelljs@0.3.0' ]
+82 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/strip-json-comments',
+82 verbose rebuild   'strip-json-comments@1.0.4' ]
+83 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/lodash',
+83 verbose rebuild   'lodash@3.7.0' ]
+84 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint',
+84 verbose rebuild   'simplebuild-jshint@1.1.0' ]
+85 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild',
+85 verbose rebuild   'simplebuild@0.5.0' ]
+86 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/array-to-sentence',
+86 verbose rebuild   'array-to-sentence@1.0.1' ]
+87 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob',
+87 verbose rebuild   'glob@3.2.11' ]
+88 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/inherits',
+88 verbose rebuild   'inherits@2.0.1' ]
+89 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch',
+89 verbose rebuild   'minimatch@0.3.0' ]
+90 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+90 verbose rebuild   'lru-cache@2.7.0' ]
+91 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+91 verbose rebuild   'sigmund@1.0.1' ]
+92 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/object-assign',
+92 verbose rebuild   'object-assign@4.0.1' ]
+93 verbose rebuild path, id [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/q',
+93 verbose rebuild   'q@0.9.7' ]
+94 silly rebuild set [ '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/semver',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/lru-cache',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/sigmund',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/utilities',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch/node_modules/lru-cache',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch/node_modules/sigmund',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/has-color',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/ansi-styles',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/strip-ansi',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/utilities',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/async',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/graceful-fs',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/sigmund',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/core-util-is',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/isarray',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/string_decoder',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/inherits',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/async-each',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/fsevents',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/fsevents/node_modules/nan',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/colors',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/sexstatic',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/sexstatic/node_modules/he',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/sexstatic/node_modules/mime',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/sexstatic/node_modules/minimist',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/opener',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/optimist',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/optimist/node_modules/wordwrap',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/optimist/node_modules/minimist',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/portfinder',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/portfinder/node_modules/mkdirp',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/union',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/union/node_modules/qs',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/ws',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/ws/node_modules/nan',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/ws/node_modules/options',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/ws/node_modules/ultron',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/inherits',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/cli/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/exit',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/console-browserify',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/console-browserify/node_modules/date-now',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domhandler',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domelementtype',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/domelementtype',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/domutils/node_modules/dom-serializer/node_modules/entities',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/core-util-is',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/isarray',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/string_decoder',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/readable-stream/node_modules/inherits',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/htmlparser2/node_modules/entities',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/minimatch',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/shelljs',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/strip-json-comments',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jshint/node_modules/lodash',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/array-to-sentence',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/inherits',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/lru-cache',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/glob/node_modules/minimatch/node_modules/sigmund',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/object-assign',
+94 silly rebuild set   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/simplebuild-jshint/node_modules/simplebuild/node_modules/q' ]
+95 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/semver
+96 info preinstall semver@5.0.3
+97 info linkStuff semver@5.0.3
+98 silly linkStuff semver@5.0.3 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules as its parent node_modules
+99 verbose linkBins semver@5.0.3
+100 verbose link bins [ { semver: './bin/semver' },
+100 verbose link bins   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin',
+100 verbose link bins   false ]
+101 verbose linkMans semver@5.0.3
+102 verbose rebuildBundles semver@5.0.3
+103 silly gentlyRm /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/semver is being purged
+104 verbose gentlyRm don't care about contents; nuking /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/semver
+105 silly vacuum-fs purging /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/semver
+106 silly vacuum-fs quitting because other entries in /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin
+107 info install semver@5.0.3
+108 info postinstall semver@5.0.3
+109 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake
+110 info preinstall jake@8.0.12
+111 info linkStuff jake@8.0.12
+112 silly linkStuff jake@8.0.12 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules as its parent node_modules
+113 verbose linkBins jake@8.0.12
+114 verbose link bins [ { jake: './bin/cli.js' },
+114 verbose link bins   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin',
+114 verbose link bins   false ]
+115 verbose linkMans jake@8.0.12
+116 verbose rebuildBundles jake@8.0.12
+117 verbose rebuildBundles [ 'async', 'chalk', 'filelist', 'minimatch', 'utilities' ]
+118 silly gentlyRm /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/jake is being purged
+119 verbose gentlyRm don't care about contents; nuking /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/jake
+120 silly vacuum-fs purging /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/jake
+121 silly vacuum-fs quitting because other entries in /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin
+122 info install jake@8.0.12
+123 info postinstall jake@8.0.12
+124 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist
+125 info preinstall filelist@0.0.4
+126 info linkStuff filelist@0.0.4
+127 silly linkStuff filelist@0.0.4 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules as its parent node_modules
+128 verbose linkBins filelist@0.0.4
+129 verbose linkMans filelist@0.0.4
+130 verbose rebuildBundles filelist@0.0.4
+131 verbose rebuildBundles [ 'minimatch', 'utilities' ]
+132 info install filelist@0.0.4
+133 info postinstall filelist@0.0.4
+134 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch
+135 info preinstall minimatch@0.3.0
+136 info linkStuff minimatch@0.3.0
+137 silly linkStuff minimatch@0.3.0 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules as its parent node_modules
+138 verbose linkBins minimatch@0.3.0
+139 verbose linkMans minimatch@0.3.0
+140 verbose rebuildBundles minimatch@0.3.0
+141 verbose rebuildBundles [ 'lru-cache', 'sigmund' ]
+142 info install minimatch@0.3.0
+143 info postinstall minimatch@0.3.0
+144 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/lru-cache
+145 info preinstall lru-cache@2.7.0
+146 info linkStuff lru-cache@2.7.0
+147 silly linkStuff lru-cache@2.7.0 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules as its parent node_modules
+148 verbose linkBins lru-cache@2.7.0
+149 verbose linkMans lru-cache@2.7.0
+150 verbose rebuildBundles lru-cache@2.7.0
+151 info install lru-cache@2.7.0
+152 info postinstall lru-cache@2.7.0
+153 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules/sigmund
+154 info preinstall sigmund@1.0.1
+155 info linkStuff sigmund@1.0.1
+156 silly linkStuff sigmund@1.0.1 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/minimatch/node_modules as its parent node_modules
+157 verbose linkBins sigmund@1.0.1
+158 verbose linkMans sigmund@1.0.1
+159 verbose rebuildBundles sigmund@1.0.1
+160 info install sigmund@1.0.1
+161 info postinstall sigmund@1.0.1
+162 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules/utilities
+163 info preinstall utilities@0.0.37
+164 info linkStuff utilities@0.0.37
+165 silly linkStuff utilities@0.0.37 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/filelist/node_modules as its parent node_modules
+166 verbose linkBins utilities@0.0.37
+167 verbose linkMans utilities@0.0.37
+168 verbose rebuildBundles utilities@0.0.37
+169 info install utilities@0.0.37
+170 info postinstall utilities@0.0.37
+171 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch
+172 info preinstall minimatch@0.2.14
+173 info linkStuff minimatch@0.2.14
+174 silly linkStuff minimatch@0.2.14 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules as its parent node_modules
+175 verbose linkBins minimatch@0.2.14
+176 verbose linkMans minimatch@0.2.14
+177 verbose rebuildBundles minimatch@0.2.14
+178 verbose rebuildBundles [ 'lru-cache', 'sigmund' ]
+179 info install minimatch@0.2.14
+180 info postinstall minimatch@0.2.14
+181 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch/node_modules/lru-cache
+182 info preinstall lru-cache@2.7.0
+183 info linkStuff lru-cache@2.7.0
+184 silly linkStuff lru-cache@2.7.0 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch/node_modules as its parent node_modules
+185 verbose linkBins lru-cache@2.7.0
+186 verbose linkMans lru-cache@2.7.0
+187 verbose rebuildBundles lru-cache@2.7.0
+188 info install lru-cache@2.7.0
+189 info postinstall lru-cache@2.7.0
+190 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch/node_modules/sigmund
+191 info preinstall sigmund@1.0.1
+192 info linkStuff sigmund@1.0.1
+193 silly linkStuff sigmund@1.0.1 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/minimatch/node_modules as its parent node_modules
+194 verbose linkBins sigmund@1.0.1
+195 verbose linkMans sigmund@1.0.1
+196 verbose rebuildBundles sigmund@1.0.1
+197 info install sigmund@1.0.1
+198 info postinstall sigmund@1.0.1
+199 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk
+200 info preinstall chalk@0.4.0
+201 info linkStuff chalk@0.4.0
+202 silly linkStuff chalk@0.4.0 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules as its parent node_modules
+203 verbose linkBins chalk@0.4.0
+204 verbose linkMans chalk@0.4.0
+205 verbose rebuildBundles chalk@0.4.0
+206 verbose rebuildBundles [ '.bin', 'ansi-styles', 'has-color', 'strip-ansi' ]
+207 info install chalk@0.4.0
+208 info postinstall chalk@0.4.0
+209 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/has-color
+210 info preinstall has-color@0.1.7
+211 info linkStuff has-color@0.1.7
+212 silly linkStuff has-color@0.1.7 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules as its parent node_modules
+213 verbose linkBins has-color@0.1.7
+214 verbose linkMans has-color@0.1.7
+215 verbose rebuildBundles has-color@0.1.7
+216 info install has-color@0.1.7
+217 info postinstall has-color@0.1.7
+218 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/ansi-styles
+219 info preinstall ansi-styles@1.0.0
+220 info linkStuff ansi-styles@1.0.0
+221 silly linkStuff ansi-styles@1.0.0 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules as its parent node_modules
+222 verbose linkBins ansi-styles@1.0.0
+223 verbose linkMans ansi-styles@1.0.0
+224 verbose rebuildBundles ansi-styles@1.0.0
+225 info install ansi-styles@1.0.0
+226 info postinstall ansi-styles@1.0.0
+227 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/strip-ansi
+228 info preinstall strip-ansi@0.1.1
+229 info linkStuff strip-ansi@0.1.1
+230 silly linkStuff strip-ansi@0.1.1 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules as its parent node_modules
+231 verbose linkBins strip-ansi@0.1.1
+232 verbose link bins [ { 'strip-ansi': 'cli.js' },
+232 verbose link bins   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/.bin',
+232 verbose link bins   false ]
+233 verbose linkMans strip-ansi@0.1.1
+234 verbose rebuildBundles strip-ansi@0.1.1
+235 silly gentlyRm /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/.bin/strip-ansi is being purged
+236 verbose gentlyRm don't care about contents; nuking /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/.bin/strip-ansi
+237 silly vacuum-fs purging /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/.bin/strip-ansi
+238 silly vacuum-fs removing /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules/.bin
+239 silly vacuum-fs quitting because other entries in /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/chalk/node_modules
+240 info install strip-ansi@0.1.1
+241 info postinstall strip-ansi@0.1.1
+242 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/utilities
+243 info preinstall utilities@1.0.4
+244 info linkStuff utilities@1.0.4
+245 silly linkStuff utilities@1.0.4 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules as its parent node_modules
+246 verbose linkBins utilities@1.0.4
+247 verbose linkMans utilities@1.0.4
+248 verbose rebuildBundles utilities@1.0.4
+249 info install utilities@1.0.4
+250 info postinstall utilities@1.0.4
+251 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules/async
+252 info preinstall async@0.9.2
+253 info linkStuff async@0.9.2
+254 silly linkStuff async@0.9.2 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/jake/node_modules as its parent node_modules
+255 verbose linkBins async@0.9.2
+256 verbose linkMans async@0.9.2
+257 verbose rebuildBundles async@0.9.2
+258 info install async@0.9.2
+259 info postinstall async@0.9.2
+260 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server
+261 info preinstall watch-http-server@0.7.6
+262 info linkStuff watch-http-server@0.7.6
+263 silly linkStuff watch-http-server@0.7.6 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules as its parent node_modules
+264 verbose linkBins watch-http-server@0.7.6
+265 verbose link bins [ { 'watch-http-server': './bin/http-server',
+265 verbose link bins     watchhttpserver: './bin/http-server',
+265 verbose link bins     whs: './bin/http-server' },
+265 verbose link bins   '/Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin',
+265 verbose link bins   false ]
+266 verbose linkMans watch-http-server@0.7.6
+267 verbose rebuildBundles watch-http-server@0.7.6
+268 verbose rebuildBundles [ '.bin',
+268 verbose rebuildBundles   'chokidar',
+268 verbose rebuildBundles   'colors',
+268 verbose rebuildBundles   'opener',
+268 verbose rebuildBundles   'optimist',
+268 verbose rebuildBundles   'portfinder',
+268 verbose rebuildBundles   'sexstatic',
+268 verbose rebuildBundles   'union',
+268 verbose rebuildBundles   'ws' ]
+269 silly gentlyRm /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/watch-http-server is being purged
+270 verbose gentlyRm don't care about contents; nuking /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/watch-http-server
+271 silly gentlyRm /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/watchhttpserver is being purged
+272 verbose gentlyRm don't care about contents; nuking /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/watchhttpserver
+273 silly gentlyRm /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/whs is being purged
+274 verbose gentlyRm don't care about contents; nuking /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/whs
+275 silly vacuum-fs purging /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/watch-http-server
+276 silly vacuum-fs purging /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/watchhttpserver
+277 silly vacuum-fs purging /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin/whs
+278 silly vacuum-fs quitting because other entries in /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin
+279 silly vacuum-fs quitting because other entries in /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin
+280 silly vacuum-fs quitting because other entries in /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/.bin
+281 info install watch-http-server@0.7.6
+282 info postinstall watch-http-server@0.7.6
+283 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar
+284 info preinstall chokidar@0.12.6
+285 info linkStuff chokidar@0.12.6
+286 silly linkStuff chokidar@0.12.6 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules as its parent node_modules
+287 verbose linkBins chokidar@0.12.6
+288 verbose linkMans chokidar@0.12.6
+289 verbose rebuildBundles chokidar@0.12.6
+290 verbose rebuildBundles [ 'async-each', 'fsevents', 'readdirp' ]
+291 info install chokidar@0.12.6
+292 info postinstall chokidar@0.12.6
+293 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp
+294 info preinstall readdirp@1.3.0
+295 info linkStuff readdirp@1.3.0
+296 silly linkStuff readdirp@1.3.0 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules as its parent node_modules
+297 verbose linkBins readdirp@1.3.0
+298 verbose linkMans readdirp@1.3.0
+299 verbose rebuildBundles readdirp@1.3.0
+300 verbose rebuildBundles [ 'graceful-fs', 'minimatch', 'readable-stream' ]
+301 info install readdirp@1.3.0
+302 info postinstall readdirp@1.3.0
+303 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/graceful-fs
+304 info preinstall graceful-fs@2.0.3
+305 info linkStuff graceful-fs@2.0.3
+306 silly linkStuff graceful-fs@2.0.3 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules as its parent node_modules
+307 verbose linkBins graceful-fs@2.0.3
+308 verbose linkMans graceful-fs@2.0.3
+309 verbose rebuildBundles graceful-fs@2.0.3
+310 info install graceful-fs@2.0.3
+311 info postinstall graceful-fs@2.0.3
+312 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch
+313 info preinstall minimatch@0.2.14
+314 info linkStuff minimatch@0.2.14
+315 silly linkStuff minimatch@0.2.14 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules as its parent node_modules
+316 verbose linkBins minimatch@0.2.14
+317 verbose linkMans minimatch@0.2.14
+318 verbose rebuildBundles minimatch@0.2.14
+319 verbose rebuildBundles [ 'lru-cache', 'sigmund' ]
+320 info install minimatch@0.2.14
+321 info postinstall minimatch@0.2.14
+322 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/lru-cache
+323 info preinstall lru-cache@2.7.0
+324 info linkStuff lru-cache@2.7.0
+325 silly linkStuff lru-cache@2.7.0 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules as its parent node_modules
+326 verbose linkBins lru-cache@2.7.0
+327 verbose linkMans lru-cache@2.7.0
+328 verbose rebuildBundles lru-cache@2.7.0
+329 info install lru-cache@2.7.0
+330 info postinstall lru-cache@2.7.0
+331 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules/sigmund
+332 info preinstall sigmund@1.0.1
+333 info linkStuff sigmund@1.0.1
+334 silly linkStuff sigmund@1.0.1 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/minimatch/node_modules as its parent node_modules
+335 verbose linkBins sigmund@1.0.1
+336 verbose linkMans sigmund@1.0.1
+337 verbose rebuildBundles sigmund@1.0.1
+338 info install sigmund@1.0.1
+339 info postinstall sigmund@1.0.1
+340 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream
+341 info preinstall readable-stream@1.0.33
+342 info linkStuff readable-stream@1.0.33
+343 silly linkStuff readable-stream@1.0.33 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules as its parent node_modules
+344 verbose linkBins readable-stream@1.0.33
+345 verbose linkMans readable-stream@1.0.33
+346 verbose rebuildBundles readable-stream@1.0.33
+347 verbose rebuildBundles [ 'core-util-is', 'inherits', 'isarray', 'string_decoder' ]
+348 info install readable-stream@1.0.33
+349 info postinstall readable-stream@1.0.33
+350 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/core-util-is
+351 info preinstall core-util-is@1.0.1
+352 info linkStuff core-util-is@1.0.1
+353 silly linkStuff core-util-is@1.0.1 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules as its parent node_modules
+354 verbose linkBins core-util-is@1.0.1
+355 verbose linkMans core-util-is@1.0.1
+356 verbose rebuildBundles core-util-is@1.0.1
+357 info install core-util-is@1.0.1
+358 info postinstall core-util-is@1.0.1
+359 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/isarray
+360 info preinstall isarray@0.0.1
+361 info linkStuff isarray@0.0.1
+362 silly linkStuff isarray@0.0.1 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules as its parent node_modules
+363 verbose linkBins isarray@0.0.1
+364 verbose linkMans isarray@0.0.1
+365 verbose rebuildBundles isarray@0.0.1
+366 info install isarray@0.0.1
+367 info postinstall isarray@0.0.1
+368 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/string_decoder
+369 info preinstall string_decoder@0.10.31
+370 info linkStuff string_decoder@0.10.31
+371 silly linkStuff string_decoder@0.10.31 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules as its parent node_modules
+372 verbose linkBins string_decoder@0.10.31
+373 verbose linkMans string_decoder@0.10.31
+374 verbose rebuildBundles string_decoder@0.10.31
+375 info install string_decoder@0.10.31
+376 info postinstall string_decoder@0.10.31
+377 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules/inherits
+378 info preinstall inherits@2.0.1
+379 info linkStuff inherits@2.0.1
+380 silly linkStuff inherits@2.0.1 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/readdirp/node_modules/readable-stream/node_modules as its parent node_modules
+381 verbose linkBins inherits@2.0.1
+382 verbose linkMans inherits@2.0.1
+383 verbose rebuildBundles inherits@2.0.1
+384 info install inherits@2.0.1
+385 info postinstall inherits@2.0.1
+386 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/async-each
+387 info preinstall async-each@0.1.6
+388 info linkStuff async-each@0.1.6
+389 silly linkStuff async-each@0.1.6 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules as its parent node_modules
+390 verbose linkBins async-each@0.1.6
+391 verbose linkMans async-each@0.1.6
+392 verbose rebuildBundles async-each@0.1.6
+393 info install async-each@0.1.6
+394 info postinstall async-each@0.1.6
+395 info build /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules/fsevents
+396 info preinstall fsevents@0.3.8
+397 info linkStuff fsevents@0.3.8
+398 silly linkStuff fsevents@0.3.8 has /Users/helios/Sites/Training/tdjs/how_to_tabs/node_modules/watch-http-server/node_modules/chokidar/node_modules as its parent node_modules
+399 verbose linkBins fsevents@0.3.8
+400 verbose linkMans fsevents@0.3.8
+401 verbose rebuildBundles fsevents@0.3.8
+402 verbose rebuildBundles [ 'nan' ]
+403 info install fsevents@0.3.8
+404 verbose unsafe-perm in lifecycle true
+405 info fsevents@0.3.8 Failed to exec install script
+406 verbose stack Error: fsevents@0.3.8 install: `node-gyp rebuild`
+406 verbose stack Exit status 1
+406 verbose stack     at EventEmitter.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/lifecycle.js:214:16)
+406 verbose stack     at emitTwo (events.js:87:13)
+406 verbose stack     at EventEmitter.emit (events.js:172:7)
+406 verbose stack     at ChildProcess.<anonymous> (/usr/local/lib/node_modules/npm/lib/utils/spawn.js:24:14)
+406 verbose stack     at emitTwo (events.js:87:13)
+406 verbose stack     at ChildProcess.emit (events.js:172:7)
+406 verbose stack     at maybeClose (internal/child_process.js:817:16)
+406 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+407 verbose pkgid fsevents@0.3.8
+408 verbose cwd /Users/helios/Sites/Training/tdjs/how_to_tabs
+409 error Darwin 15.0.0
+410 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "rebuild"
+411 error node v4.1.1
+412 error npm  v2.14.4
+413 error code ELIFECYCLE
+414 error fsevents@0.3.8 install: `node-gyp rebuild`
+414 error Exit status 1
+415 error Failed at the fsevents@0.3.8 install script 'node-gyp rebuild'.
+415 error This is most likely a problem with the fsevents package,
+415 error not with npm itself.
+415 error Tell the author that this fails on your system:
+415 error     node-gyp rebuild
+415 error You can get their info via:
+415 error     npm owner ls fsevents
+415 error There is likely additional logging output above.
+416 verbose exit [ 1, true ]
