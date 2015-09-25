@@ -14,7 +14,7 @@
 
     desc("Run the http-server");
     task("run", function() {
-        jake.exec("node node_modules/watch-http-server/bin/http-server ./src", {interactive: true}, complete);
+        jake.exec("node node_modules/watch-http-server/bin/http-server ./src -o", {interactive: true}, complete);
     }, {async:true});
 
     /* */

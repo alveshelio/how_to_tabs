@@ -3,8 +3,6 @@
 
     var assert = require("chai").assert;
 
-    //var mocha = require("mocha");
-
     describe("Addition", function() {
 
         it("adds positive numbers", function() {
@@ -19,12 +17,6 @@
         });
 
     });
-
-    //describe("A Jasmine 1.3 spec", function() {
-    //    it("should have toBe matcher", function() {
-    //        expect(1).toBe(1);
-    //    });
-    //});
 
     function add(a, b) {
         return a + b;
