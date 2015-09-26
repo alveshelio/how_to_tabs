@@ -6,6 +6,7 @@
     var semver = require("semver");
     var jshint = require("simplebuild-jshint");
     var karma = require("simplebuild-karma");
+    var KARMA_CONFIG = "karma.conf.js";
 
     /* General-purpose tasks*/
     desc("Default build");
@@ -22,7 +23,7 @@
     task("karma", function() {
         console.log("Starting karma server");
         karma.start({
-            configFile: "karma.conf.js"
+            configFile: KARMA_CONFIG
         }, complete, fail);
     }, {async: true});
 
@@ -57,7 +58,7 @@
     task("test", function() {
         console.log("Testing Javascript");
         karma.run({
-            configFile: "karma.conf.js"
+            configFile: KARMA_CONFIG
         }, complete, fail);
     }, {async: true});
 
