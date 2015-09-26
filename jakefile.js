@@ -17,7 +17,12 @@
         jake.exec("node node_modules/watch-http-server/bin/http-server ./src -o", {interactive: true}, complete);
     }, {async:true});
 
-    /* */
+    desc("Start the Karma server (run this first)");
+    task("karma", function() {
+        
+    });
+
+    /* Supporting Tasks */
     desc( "Checking Node Version");
     task("version", function() {
         console.log("Checking Node Version: .");
@@ -28,7 +33,7 @@
 
         var actualVersion = process.version;
         if (semver.neq(expectedVersion, actualVersion)) {
-            fail( "Incorrect Node version: expected " + expectedVersion + " but was " + actualVersion);
+            fail( "Incorrect Node version: expected " + expectedVersion + " but got " + actualVersion);
         }
     });
 
