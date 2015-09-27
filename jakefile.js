@@ -12,7 +12,7 @@
     desc("Default build");
     task("default", [ "version", "lint", "test" ], function() {
         console.log("\n\nBUILD OK");
-    });
+    }, {async:true});
 
     desc("Run the http-server");
     task("run", function() {
@@ -42,7 +42,7 @@
         }
     });
 
-    desc ();
+    desc ("Linting Javascript");
     task("lint", function() {
         process.stdout.write("Linting JavaScript: ");
 
@@ -59,13 +59,22 @@
         console.log("Testing Javascript");
         karma.run({
             configFile: KARMA_CONFIG,
-            expectedBrowsers: [
-                "Chrome 45.0.2454 (Mac OS X 10.11.1)",
-                "Firefox 42.0.0 (Mac OS X 10.11.0)"
-            ]
+            expectedBrowsers: listOfBrowsers(),
+            // Allows us to loose the testing
+            strict: !process.env.loose
         }, complete, fail);
     }, {async: true});
 
+
+    function listOfBrowsers(){
+        return [
+            "Chrome 45.0.2454 (Mac OS X 10.11.1)",
+            "Firefox 43.0.0 (Mac OS X 10.11.0)",
+            "Safari 9.0.1 (Mac OS X 10.11.1)",
+            "Mobile Safari 8.0.0 (iOS 8.1.3)",
+            "Chrome 45.0.2454 (Android 5.1.1)"
+        ];
+    }
 
     function lintOptions () {
         return {
